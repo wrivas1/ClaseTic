@@ -28,7 +28,7 @@ s= double.Parse(Console.ReadLine());
 //Proceso
 prom = (l + m + mi + j + v + s) / 6;
 //Salida
-Console.WriteLine("promedio es  = {0}",
+Console.WriteLine("promedio de venta es  = {0}",
 prom);
 Console.ReadKey();
 }
