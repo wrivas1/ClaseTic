@@ -13,11 +13,11 @@ static void Main(string[] args)
 //Definicion de variable
 double l, m, mi, j, v, s, prom;
 //Entrada
-Console.Write("de la ganancia de lunes: ");
+Console.Write("De la ganancia de lunes: ");
 l = double.Parse(Console.ReadLine());
-Console.Write("de la ganancia de martes: ");
+Console.Write("De la ganancia de martes: ");
 m = double.Parse(Console.ReadLine());
-Console.Write("de la ganancia de miercoles");
+Console.Write("De la ganancia de miercoles");
 mi = double.Parse(Console.ReadLine());
 Console.Write("de la ganancia de jueves");
 j= double.Parse(Console.ReadLine());
