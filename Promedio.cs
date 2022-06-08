@@ -25,11 +25,12 @@ Console.Write("de la ganancia de viernes");
 v= double.Parse(Console.ReadLine());
 Console.Write("de la ganancia de sabado");
 s= double.Parse(Console.ReadLine());
-//Proceso
+//Proceso 
 prom = (l + m + mi + j + v + s) / 6;
 //Salida
 Console.WriteLine("promedio de todas las ventas es  = {0}",
 prom);
+ Consle.writeline("cambio");
 Console.ReadKey();
 }
 }
